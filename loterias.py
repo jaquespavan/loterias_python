@@ -112,5 +112,4 @@ while True:
 
 os.system("cls")
 print('Obrigado por ter utilizado meu gerador de loterias!')
-print('')
 print('Contato: jaques.pavan@gmail.com')
