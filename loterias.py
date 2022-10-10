@@ -111,6 +111,6 @@ while True:
         break
 
 os.system("cls")
-print('Obrigado por ter utilizado meu gerador de loterias!\n')
-print('1º projeto de conclusão do curso básico de Python "Aprenda Programação em Python 3 do Zero com Facilidade", do professor Ivan Lourenço Gomes, na plataforma UDEMY.\n')
+print('Obrigado por ter utilizado meu gerador de loterias!')
+print('')
 print('Contato: jaques.pavan@gmail.com')
