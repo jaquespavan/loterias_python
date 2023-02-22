@@ -15,6 +15,9 @@ Certifique-se de que você tem as bibliotecas necessárias instaladas.
 
 # Melhorias
 - o código principal do gerador será otimizado futuramente; é uma versão bem inicial, que mexi muito pouco depois de finalizado.
+
+- os scripts de scraper são iniciais também, e serão revistos;
+
 - está em desenvolvimento um script de análise, com trechos para verificar:
 	CONTAGEM QTDE DE CADA DEZENA;
 	ANÁLISE DE PALPITE NOS CONCURSOS ANTERIORES;
