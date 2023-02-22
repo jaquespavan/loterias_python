@@ -1,4 +1,4 @@
-# Gerador de Loteria e Coleta de Resultados
+# Gerador de Loteria, e Coleta de Resultados utilizando Web Scraping
 Este repositório contém um conjunto de scripts em Python, no formato do Jupyter Notebook, que podem ser utilizados para gerar números aleatórios para jogos das loterias da Caixa Econômica Federal, bem como para coletar resultados direto do site oficial. 
 
 # Gerador de Números de Loteria
