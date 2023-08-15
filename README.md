@@ -14,6 +14,7 @@ A versão "UPDATE" apenas atualiza o arquivo "CSV" já existente na pasta "loter
 # Como Utilizar
 Para utilizar os scripts, basta executá-los.
 Certifique-se de que você tem as bibliotecas necessárias instaladas.
+O código está parametrizado para utilização no navegador Chrome.
 
 # Melhorias
 - o código principal do gerador será otimizado futuramente; é uma versão bem inicial, que mexi muito pouco depois de finalizado.
