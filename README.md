@@ -6,7 +6,7 @@ O script "loterias.py" é um gerador de números aleatórios simples, que utiliz
 Você pode personalizar a quantidade de jogos gerados, em um intervalo entre 1 a 20 jogos.
 
 # Coleta dos resultados
-Os scripts "scraper" (na pasta 'loteria_web_scraper') são exemplos de técnicas de web scraping, utilizando a biblioteca Selenium, para fazer a coleta dos resultados.
+Os scripts "scraper" (na pasta 'loteria_web_scraper_v2') são exemplos de técnicas de web scraping, utilizando a biblioteca Selenium, para fazer a coleta dos resultados.
 Cada script se conecta ao site da Caixa, e faz a raspagem dos dados, armazenando-as em arquivos CSV.
 A versão "FULL" faz o scraping desde o concurso nº 1.
 A versão "UPDATE" apenas atualiza o arquivo "CSV" já existente na pasta "loteria_web_scraper\arquivos_CSV".
